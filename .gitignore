@@ -1,0 +1,11 @@
+# cache
+bin
+
+# migrations
+Migrations
+
+# db
+.db
+
+#binaries
+obj
